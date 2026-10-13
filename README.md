@@ -1,5 +1,7 @@
 # Simply Done
 
+LALALALALALLALALALALALLALALALALA
+
 make a todo app simple no database just use react and no external service no env
 
 This project was built with [Lovable](https://lovable.dev).
