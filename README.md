@@ -2,7 +2,7 @@
 dnewfnewajkdfnewidfnewr
 LALALALALALLALALALALALLALALALALA
 
-make a todo app simple no database just use react and no external service no env
+make a todo app simple no database just use react and no external scdsmnf ejkfnkfwervice no env
 
 This project was built with [Lovable](https://lovable.dev).
 
